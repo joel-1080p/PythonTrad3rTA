@@ -32,7 +32,7 @@ EMA Golden/Death Cross <br>
 
 <br>
 
-### Example 1 - How to apply the script.
+### Example - How to apply the script.
 
 ```python
 import PythonTrad3rTA as TA
